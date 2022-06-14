@@ -13,3 +13,6 @@ logs
 # Save dir
 1.6_the_saved_model
 1.6_keras_ex_model_save
+
+# model plot images
+plot_model
