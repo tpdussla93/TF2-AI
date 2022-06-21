@@ -19,3 +19,7 @@ plot_model
 
 # datasets
 ~
+.keras
+
+vectors.tsv
+metadata.tsv
